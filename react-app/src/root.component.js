@@ -1,3 +1,3 @@
 export default function Root(props) {
-  return <section>{props.name} is mounted!</section>;
+  return <section>Hey Reaper ! this is the react application</section>;
 }
